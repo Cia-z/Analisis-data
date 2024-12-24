@@ -2,7 +2,7 @@
 
 ## Setup Environment
 ```bash
-git clone https://github.com/Cia-z/Analisis_Data.git
+git clone https://github.com/Cia-z/Analisis-data.git
 cd Andat
 cd dashboard
 ```
